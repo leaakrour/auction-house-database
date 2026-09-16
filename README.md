@@ -15,7 +15,7 @@ The project models the backend for **Baie-Électronique**, a company running onl
 
 - **Entity-Relationship modeling**: full analysis of functional dependencies, value constraints, multiplicity constraints, and contextual business rules
 - **Relational schema translation**: E/R diagram translated into normalized relations, with justified normal forms
-- **Transactional SQL**: concurrency-safe transactions for room creation, bidding, and auction resolution — tested on Oracle for concurrent access correctness
+- **Transactional SQL**: concurrency-safe transactions for room creation, bidding, and auction resolution - tested on Oracle for concurrent access correctness
 - **Java/JDBC demonstrator**: a text-based interface exercising the core functionalities (create a sale room, place a bid, determine auction winners)
 
 ## Tech stack
