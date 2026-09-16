@@ -24,11 +24,10 @@ Oracle SQL · Java · JDBC
 
 ## Project structure
 
-''
+```
 App/
 ├── tables.sql → Schema creation (DDL)
 ├── populate.sql → Sample data
 ├── Offer.sql → Bidding-related queries/transactions
 ├── src/Main.java → JDBC demonstrator entry point
-''
-
+```
